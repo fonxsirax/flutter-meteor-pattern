@@ -5,4 +5,3 @@
 ## Getting Started
 
       This is the Server Part of flutter-meteor-pattern to find the client part go to .../client/
-
