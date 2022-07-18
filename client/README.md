@@ -7,10 +7,13 @@ A new Flutter project.
 Our app uses modular pattern so the repository was organize into: Components, Models, Pages, Repositories, Utils
 
 In app Widget we have two routes, 
+```dart
       routes: {
         AppRoutes.AUTH_OR_HOME: (ctx) => const AuthOrHomePage(),
         AppRoutes.POST_CREATE: (ctx) => const CreateModelPage(),
       }
+```
+
       
       
  One to autentication and other for Crud with meteor.
